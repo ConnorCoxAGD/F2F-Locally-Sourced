@@ -1,2 +1,2 @@
 
-Copyright (C) 2020 Connor (Home)
+Copyright (C) 2020 Connor R. Cox
