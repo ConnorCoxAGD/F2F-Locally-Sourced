@@ -9,19 +9,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <marker date="1599974150427" expanded="true" signature="113:852" ph="{...}" />
+                <marker date="1599974150427" expanded="true" signature="260:331" ph="{...}" />
+                <marker date="1599974150427" expanded="true" signature="357:850" ph="{...}" />
+                <marker date="1599974150427" expanded="true" signature="572:721" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/NatureManufacture Assets/Spline System/Scripts/Editor/RamSplineEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="6" />
-    <option name="width" value="1902" />
+    <option name="x" value="-13" />
+    <option name="y" value="5" />
+    <option name="width" value="1903" />
     <option name="height" value="1005" />
   </component>
   <component name="ProjectView">
@@ -29,12 +49,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -84,11 +104,12 @@
       <workItem from="1588090382944" duration="13000" />
       <workItem from="1588092380025" duration="277000" />
       <workItem from="1588105153562" duration="726000" />
+      <workItem from="1599973807833" duration="931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1016000" />
+    <option name="totallyTimeSpent" value="1947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -100,14 +121,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="4" width="1268" height="670" extended-state="0" />
+    <frame x="-10" y="4" width="1522" height="804" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15562914" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15800273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Unity" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -123,6 +144,7 @@
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -148,9 +170,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/NatureManufacture Assets/River Auto Material/Demo/HD and URP support.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NatureManufacture Assets/River Auto Material/Demo/HD and URP support.txt" />
     <entry file="file://$PROJECT_DIR$/Assets/NatureManufacture Assets/Additional Tools/Scripts/Editor/VertexPainter.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -162,6 +182,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="196" column="39" selection-start-line="196" selection-start-column="39" selection-end-line="196" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <marker date="1599974150427" expanded="true" signature="113:852" ph="{...}" />
+            <marker date="1599974150427" expanded="true" signature="260:331" ph="{...}" />
+            <marker date="1599974150427" expanded="true" signature="357:850" ph="{...}" />
+            <marker date="1599974150427" expanded="true" signature="572:721" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
