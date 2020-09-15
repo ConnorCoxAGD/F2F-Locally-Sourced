@@ -193,11 +193,17 @@
             </e>
           </e>
         </e>
+        <e p="ScriptableObjects" t="Include">
+          <e p="Inventory" t="Include">
+            <e p="InventoryObject.cs" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="DefaultObject.cs" t="Include" />
           <e p="EquipmentObject.cs" t="Include" />
           <e p="ItemObject.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerInventory.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
         </e>
       </e>

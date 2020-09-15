@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7566e4b12f008a41b83e59dea64b429, type: 3}
   m_Name: Plow
   m_EditorClassIdentifier: 
-  display: {fileID: 0}
-  type: 0
-  description: 
-  atkBonus: 0
+  display: {fileID: 5851184434358322901, guid: 5e03b400dc548ff46813e8aa35e9795e, type: 3}
+  type: 1
+  description: An old tool used to till the earth, allowing for seeds to be planted.
+    It's a bit rusty, don't you think?
+  atkBonus: 1
   defBonus: 0
