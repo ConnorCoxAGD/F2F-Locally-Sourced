@@ -2,5 +2,5 @@
 
 public class PlayerInventory : MonoBehaviour
 {
-    public InventoryObject inventory;
+    public InventoryObject toolBar, inventory, equipment;
 }

@@ -10,11 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a7566e4b12f008a41b83e59dea64b429, type: 3}
-  m_Name: Plow
+  m_Name: Rusty Hammer
   m_EditorClassIdentifier: 
-  display: {fileID: 5851184434358322901, guid: 5e03b400dc548ff46813e8aa35e9795e, type: 3}
-  type: 1
-  description: An old tool used to till the earth, allowing for seeds to be planted.
-    It's a bit rusty, don't you think?
+  Id: 1
+  uiDisplay: {fileID: 21300000, guid: a501647158a63204e917f4cc61920106, type: 3}
+  type: 3
+  description: An old tool that's pretty good at cracking rocks. This one is a bit
+    rusty, but I bet it's still good at finding ores.
+  buffs: []
   atkBonus: 1
   defBonus: 0
+  spdBonus: 1

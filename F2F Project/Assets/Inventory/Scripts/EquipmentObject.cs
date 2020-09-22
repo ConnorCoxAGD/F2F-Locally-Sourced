@@ -3,10 +3,9 @@
 
 public class EquipmentObject : ItemObject
 {
-    public float atkBonus;
-    public float defBonus;
+    public float atkBonus, defBonus, spdBonus;
 
-    public void awake()
+    public void Awake()
     {
         type = ItemType.Equipment;
     }

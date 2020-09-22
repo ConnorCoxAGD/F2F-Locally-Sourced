@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6a064a980a60548aa4f42b52a5e0b8, type: 3}
+  m_Name: TestToolBar
+  m_EditorClassIdentifier: 
+  savePath: /Toolbar.Save
+  database: {fileID: 11400000, guid: 97d356500548a154493cfa01a8c3a352, type: 2}
+  container:
+    items:
+    - item:
+        id: 0
+        Name: 
+      permittedItemTypes: 
+      quantity: 1
+      parent: {fileID: 0}
+    - item:
+        id: 2
+        Name: 
+      permittedItemTypes: 
+      quantity: 1
+      parent: {fileID: 0}
+    - item:
+        id: 1
+        Name: 
+      permittedItemTypes: 
+      quantity: 1
+      parent: {fileID: 0}
+    - item:
+        id: -1
+        Name: 
+      permittedItemTypes: 
+      quantity: 0
+      parent: {fileID: 0}
+    - item:
+        id: -1
+        Name: 
+      permittedItemTypes: 
+      quantity: 0
+      parent: {fileID: 0}
+    - item:
+        id: -1
+        Name: 
+      permittedItemTypes: 
+      quantity: 0
+      parent: {fileID: 0}
+    - item:
+        id: -1
+        Name: 
+      permittedItemTypes: 
+      quantity: 0
+      parent: {fileID: 0}
+    - item:
+        id: -1
+        Name: 
+      permittedItemTypes: 
+      quantity: 0
+      parent: {fileID: 0}
+    - item:
+        id: -1
+        Name: 
+      permittedItemTypes: 
+      quantity: 0
+      parent: {fileID: 0}
+    - item:
+        id: -1
+        Name: 
+      permittedItemTypes: 
+      quantity: 0
+      parent: {fileID: 0}
